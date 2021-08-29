@@ -1,1 +1,1 @@
-# whatsapp_automatic_message_sender
+Çözünürlüğün 1920x1080 ayarlarda kullanılan bir bilgisayarda  .csv uzantılı bir dosyadan  aldığı numaralara otomatik olarak toplu mesaj gönderebilir.
