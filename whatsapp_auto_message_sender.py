@@ -18,7 +18,7 @@ dashboard_mesaj = '''
       / /  / / /___ ___/ /__/ / ___ / /_/ / /___    ___/ / /___/ /|  / /_/ / /___/ _, _/                    
      /_/  /_/_____//____/____/_/  |_\____/_____/   /____/_____/_/ |_/_____/_____/_/ |_|                     
                                                                                                     
-                     Whatsapp Automatic Message Sender | Twitter: @k4juxi
+                     Whatsapp Automatic Message Sender | Twitter: -
                                          
 '''
 
